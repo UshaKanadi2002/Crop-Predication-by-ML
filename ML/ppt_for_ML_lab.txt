@@ -1,0 +1,11 @@
+Title(college name, logo, our name and roll no)
+introduction( 2 to 3 )
+problem statement
+methodology
+explanation with some output, dataset
+result analysis
+performance tuning
+output result
+GUI 
+Q&A
+thank you

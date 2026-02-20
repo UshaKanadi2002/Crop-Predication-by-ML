@@ -1,0 +1,7 @@
+Machine Learning Updates on Project
+1. Output(GUI)
+2. Describe about the dataset(original/reduced)
+3.Visualization
+4.About the Algorithm(individual, comparative, hybrid, ensemble)
+5.Result
+6.Unseen Dataset
